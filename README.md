@@ -6,9 +6,9 @@ pkg install python
 
 pkg install git 
 
-git clone https://github.com/FADILSTOREEE/FADILAH-GANSS.git
+git clone https://github.com/FADILSTOREEE/FADILGANS.git
 
-cd FADILAH-GANSS
+cd FADILGANS
 
 python FADIL-GANSS.py
 
